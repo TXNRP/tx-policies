@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Basic Rules And Terms",
+        "isChild": false
+    },
+    {
+        "title": "Roleplay Standards",
+        "isChild": true,
+        "rules": [
+            "You must realistically roleplay at all times. Fail-RolePlay (FailRP), Random Deathmatches (RDM), Vehicle Deathmatches (VDM), Meta-Gaming, Noclipping, Teleporting, Godmode, Invisibility and/or any type of so-called “Trolling” or “No Intent to RP (NITRP)” will not be tolerated.",
+            "Do NOT intentionally bait Law Enforcement Officers, also known as Copbaiting; for example, do NOT try to intentionally get a Law Enforcement Officer to initiate a traffic stop on you.",
+            "Do NOT interfere with any roleplay that you are not apart of.",
+            "Do NOT perform any Erotic RP. This includes roleplay containing sexism and nudity.",
+            "Whatever else would go here, this is just an example...."
+        ]
+    }
+]
