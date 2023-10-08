@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Example Entry (First Degree Speeding)",
+        "details": "Drives in excess of the speed limit by more than 55 miles per hour",
+        "jailtime": 0,
+        "fine": 1125,
+        "points": 3,
+        "category": "Traffic Violations",
+        "color": "green"
+    }
+]
