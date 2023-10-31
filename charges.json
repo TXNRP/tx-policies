@@ -1,10 +1,36 @@
 [
-    {
+    { 
         "id": 1,
-        "title": "Example Entry (First Degree Speeding)",
-        "details": "Drives in excess of the speed limit by more than 55 miles per hour",
+        "title": "Speeding Over 1-14 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no more than 14 mph",
         "jailtime": 0,
-        "fine": 1125,
+        "fine": 120,
+        "points": 0,
+        "category": "Traffic Violations",
+        "color": "green"
+    }
+]
+
+[
+    { 
+        "id": 2,
+        "title": "Speeding Over 15-19 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 15 mph and no more than 19 mph",
+        "jailtime": 0,
+        "fine": 140,
+        "points": 0,
+        "category": "Traffic Violations",
+        "color": "green"
+    }
+]
+
+[
+    { 
+        "id": 3,
+        "title": "Speeding Over 20-25 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 15 mph and no more than 19 mph",
+        "jailtime": 0,
+        "fine": 500,
         "points": 3,
         "category": "Traffic Violations",
         "color": "green"
