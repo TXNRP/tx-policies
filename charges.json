@@ -28,5 +28,25 @@
         "points": 3,
         "category": "Traffic Violations",
         "color": "green"
+    },
+    { 
+        "id": 4,
+        "title": "Speeding Over 26-34 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 26 mph and no more than 34 mph",
+        "jailtime": 0,
+        "fine": 1500,
+        "points": 3,
+        "category": "Traffic Violations",
+        "color": "green"
+    },
+    { 
+        "id": 5,
+        "title": "Speeding 35+ Over Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 35 mph",
+        "jailtime": 0,
+        "fine": 2500,
+        "points": 3,
+        "category": "Traffic Violations",
+        "color": "green"
     }
 ]
