@@ -8,10 +8,7 @@
         "points": 0,
         "category": "Traffic Violations",
         "color": "green"
-    }
-]
-
-[
+    },
     { 
         "id": 2,
         "title": "Speeding Over 15-19 Over The Posted Speed Limit",
@@ -21,10 +18,7 @@
         "points": 0,
         "category": "Traffic Violations",
         "color": "green"
-    }
-]
-
-[
+    },
     { 
         "id": 3,
         "title": "Speeding Over 20-25 Over The Posted Speed Limit",
