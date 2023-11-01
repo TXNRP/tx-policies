@@ -91,7 +91,7 @@
     },
     { 
         "id": 10,
-        "title": "Driving Without A Valid Licens",
+        "title": "Driving Without A Valid License",
         "details": "A individual who is in operation of a motor vehicle on a highway or public roadway while not carrying a valid license",
         "jailtime": 45,
         "fine": 2500,
