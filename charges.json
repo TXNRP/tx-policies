@@ -101,11 +101,51 @@
     },
     { 
         "id": 11,
-        "title": "Driving Without A Valid Licens",
-        "details": "A individual who is in operation of a motor vehicle on a highway or public roadway while not carrying a valid license",
-        "jailtime": 45,
+        "title": "Driving While License Suspended/Revoked",
+        "details": "An individual who operates a motor vehicle while their license is Suspended/Revoked",
+        "jailtime": 100,
         "fine": 2500,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 12,
+        "title": "Driving Uder The Influence",
+        "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drig/narcotic that would impair his/her own driving",
+        "jailtime": 120,
+        "fine": 1500,
         "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 13,
+        "title": "Vehicle Registration",
+        "details": "An individual who operates a motor vehicle without the adequete registration for said vehicle",
+        "jailtime": 0,
+        "fine": 190,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 14,
+        "title": "Vehicle Insurance",
+        "details": "An individual who operates a motor vehicle without the adequete insurance for said vehicle",
+        "jailtime": 0,
+        "fine": 300,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 15,
+        "title": "Following Distance",
+        "details": "An individual shall not follow another vehicle more closely than is reasonable, having regard for the speed of said vehicle and the traffic upon, and the condition of the roadway",
+        "jailtime": 0,
+        "fine": 215,
+        "points": 0,
         "category": "Moving Violations",
         "color": "red"
     }
