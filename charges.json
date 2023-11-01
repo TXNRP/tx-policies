@@ -61,7 +61,7 @@
     },
     { 
         "id": 7,
-        "title": "Recklless Driving",
+        "title": "Reckless Driving",
         "details": "An individual who drives any vehicle with a wilful or wanton disregard for the safety of persons or property",
         "jailtime": 180,
         "fine": 2500,
@@ -83,7 +83,7 @@
         "id": 9,
         "title": "Improper Lane Usage",
         "details": "An individual who drives any vehicle in the left lane wherin he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
-        "jailtime": ,
+        "jailtime": 0,
         "fine": 120,
         "points": 3,
         "category": "Moving Violations",
@@ -222,7 +222,7 @@
     { 
         "id": 23,
         "title": "Alchohol Bevrages In A Motor Vehicle",
-        "details": "No driver shall drink any alcoholic beverage while ina  vehicle upon a highway or roadway",
+        "details": "No driver shall drink any alcoholic beverage while in a vehicle upon a highway or roadway",
         "jailtime": 0,
         "fine": 400,
         "points": 3,
