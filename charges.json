@@ -6,7 +6,7 @@
         "jailtime": 0,
         "fine": 120,
         "points": 0,
-        "category": "Traffic Violations",
+        "category": "Speeding Violations",
         "color": "green"
     },
     { 
@@ -16,7 +16,7 @@
         "jailtime": 0,
         "fine": 140,
         "points": 0,
-        "category": "Traffic Violations",
+        "category": "Speeding Violations",
         "color": "green"
     },
     { 
@@ -26,7 +26,7 @@
         "jailtime": 0,
         "fine": 500,
         "points": 3,
-        "category": "Traffic Violations",
+        "category": "Speeding Violations",
         "color": "green"
     },
     { 
@@ -36,7 +36,7 @@
         "jailtime": 0,
         "fine": 1500,
         "points": 3,
-        "category": "Traffic Violations",
+        "category": "Speeding Violations",
         "color": "green"
     },
     { 
@@ -46,7 +46,7 @@
         "jailtime": 0,
         "fine": 2500,
         "points": 3,
-        "category": "Traffic Violations",
+        "category": "Speeding Violations",
         "color": "green"
     }
 ]
