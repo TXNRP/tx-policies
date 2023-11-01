@@ -48,5 +48,65 @@
         "points": 3,
         "category": "Speeding Violations",
         "color": "green"
+    },
+    { 
+        "id": 6,
+        "title": "Failure To Yield",
+        "details": "An individual who fails to adhere to a traffic control devices or move out the way upon the imediate approach of an authorized emergency vehicle making use of audible and visual signals",
+        "jailtime": 100,
+        "fine": 120,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 7,
+        "title": "Recklless Driving",
+        "details": "An individual who drives any vehicle with a wilful or wanton disregard for the safety of persons or property",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 8,
+        "title": "Motor Vehicle Contest",
+        "details": "An individual who drives any vehcile with intent to race a driver of another motor vehicle",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 9,
+        "title": "Improper Lane Usage",
+        "details": "An individual who drives any vehicle in the left lane wherin he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
+        "jailtime": ,
+        "fine": 120,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 10,
+        "title": "Driving Without A Valid Licens",
+        "details": "A individual who is in operation of a motor vehicle on a highway or public roadway while not carrying a valid license",
+        "jailtime": 45,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 11,
+        "title": "Driving Without A Valid Licens",
+        "details": "A individual who is in operation of a motor vehicle on a highway or public roadway while not carrying a valid license",
+        "jailtime": 45,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
     }
 ]
