@@ -148,5 +148,65 @@
         "points": 0,
         "category": "Moving Violations",
         "color": "red"
+    },
+    { 
+        "id": 16,
+        "title": "Red Light Violation",
+        "details": "An individual shall stop at a marked limit line when coming up to a steady circular red signal",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 17,
+        "title": "Green Light Violation",
+        "details": "An individual shall proceed straight through, turn right or left or make a U turn unless a posted sign prohibits them from doing when faced with a curcular green signal",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 18,
+        "title": "Failure To Maintain Lanes",
+        "details": "An individual should maintain lanes at all times and not mount the right hand edge or curb except when overtaking and passing another vehicle proceeding in the same direction",
+        "jailtime": 0,
+        "fine": 150,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 19,
+        "title": "Impeding Traffic",
+        "details": "No person shall bring a vehicle to a complete stop upon a highway or roadway so as to impede or block the normal and reasonable movement of traffic unless the stop is a necessary for safe operation or in compliance with the law",
+        "jailtime": 0,
+        "fine": 200,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    }
+    { 
+        "id": 20,
+        "title": "Unreasonably Slow",
+        "details": "No person shall drive upon a highway or roadway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necassary for safe operation, because of a grade, or in compliance with the law",
+        "jailtime": 0,
+        "fine": 165,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 21,
+        "title": "Stop Sign Violations",
+        "details": "",
+        "jailtime": 0,
+        "fine": 165,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
     }
 ]
