@@ -202,9 +202,39 @@
     { 
         "id": 21,
         "title": "Stop Sign Violations",
-        "details": "",
+        "details": "The driver of any vehicle approaching a stop sign or pavement marking 'STOP' at the entrance to, or within, an intersection shall stop at a limit line",
         "jailtime": 0,
-        "fine": 165,
+        "fine": 256,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 22,
+        "title": "Parking Violations",
+        "details": "No vehicle may park in a manner that obstructs a lane of traffic, entrance any footpath",
+        "jailtime": 0,
+        "fine": 210,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 23,
+        "title": "Alchohol Bevrages In A Motor Vehicle",
+        "details": "No driver shall drink any alcoholic beverage while ina  vehicle upon a highway or roadway",
+        "jailtime": 0,
+        "fine": 400,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 24,
+        "title": "Illegal U-Turn",
+        "details": "No driver should perform a U-Turn unless a signs permits it",
+        "jailtime": 0,
+        "fine": 250,
         "points": 0,
         "category": "Moving Violations",
         "color": "red"
