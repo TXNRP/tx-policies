@@ -238,5 +238,156 @@
         "points": 0,
         "category": "Moving Violations",
         "color": "red"
+    },
+    { 
+        "id": 25,
+        "title": "Failure To Drive On Right Side Of Roadway",
+        "details": "An operator on a roadway of sufficient width sahll drive on the right half of the roadway unless a valid reason permits them to do so",
+        "jailtime": 0,
+        "fine": 1000,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 26,
+        "title": "Failure To Properly Display Headlights/Headlamps",
+        "details": "A vehicle shall display each lighted lamp and illuminating device required by this chapter to be on the vehicle at nightime",
+        "jailtime": 0,
+        "fine": 120,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 27,
+        "title": "Boating Under The influence",
+        "details": "An individual is guilty if he/she operates a watercraft while under the influence of alcohol or any drug/narcotic that would impair his/her own driving",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 28,
+        "title": "Flying Under The Influence",
+        "details": "An individual is guilty if he/she operates a aircraft while under the influence of alcohol or any drug/narcotic that would impair his/her own driving",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 29,
+        "title": "Distracted Driving",
+        "details": "A person is guilty if he/she knowingly drives whilst distracted such as driving whilst using a mobile phone or without due care and attention",
+        "jailtime": 60,
+        "fine": 1000,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 30,
+        "title": "Hit And Run",
+        "details": "An individual is guilty of this section if he/she gets into an accident and leaves the scene either in a motor vehicle or by other means",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 6,
+        "category": "Motor Vehicle Accident",
+        "color": "blue"
+    },
+    { 
+        "id": 31,
+        "title": "Seatbbelt Violation",
+        "details": "An individual is guilty of this section if he/she does not wear a seatbelt whilst in a motor vehicle",
+        "jailtime": 0,
+        "fine": 200,
+        "points": 3,
+        "category": "Motor Vehicle Accident",
+        "color": "blue"
+    },
+    { 
+        "id": 32,
+        "title": "Use Of Red/White Lighting",
+        "details": "The use of Red/White lighting in a oscillating/rptating/flashing mannaer with the exception fo turn signals is prohibited if the vehicle is not goverment owned",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 33,
+        "title": "Use Of Blue Lighting",
+        "details": "The use of blue lighting in a oscillating/rptating/flashing mannaer with the exception fo turn signals is prohibited if the vehicle is not goverment owned",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 34,
+        "title": "Use Of Yellow/Amber lighting",
+        "details": "The use of yellow/amber lighting in a oscillating/rptating/flashing mannaer with the exception fo turn signals is prohibited if the vehicle is not used by state-authorized security agency",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Emergency Service Laws",
+        "color": "pink"
     }
+    { 
+        "id": 35,
+        "title": "Impersonation of A Police Officer",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 36,
+        "title": "Impersonation of A Police Officer While Carrying A Deadly Weapon",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer while carrying a deadly weapon",
+        "jailtime": 360,
+        "fine": 2500,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 37,
+        "title": "2nd Degree AggraImpersonation of A Police Officer ",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer in attempting or committing a felony",
+        "jailtime": 420,
+        "fine": 25000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 38,
+        "title": "1st Degree AggraImpersonation of A Police Officer ",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer of any jurisdiction in attempting or committing a forcible felony",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    }
+    { 
+        "id": 39,
+        "title": "1st Degree AggraImpersonation of A Police Officer",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer of any jurisdiction in attempting or committing a forcible felony",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    }
+]
 ]
