@@ -378,13 +378,23 @@
         "points": 0,
         "category": "Emergency Service Laws",
         "color": "pink"
-    }
+    },
     { 
         "id": 39,
-        "title": "1st Degree AggraImpersonation of A Police Officer",
-        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer of any jurisdiction in attempting or committing a forcible felony",
-        "jailtime": 480,
-        "fine": 50000,
+        "title": "Impersonation Of An Emergency Services Agent",
+        "details": "A person who knowingly and falsely represents himself to be an emergency services worker of any jurisdictions in this state",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 40,
+        "title": "Misuse of A Government Hotline",
+        "details": "A person is guilty if he/she knowingly misuse the Government Hotline such as making false reports and/or prank calls",
+        "jailtime": 60,
+        "fine": 1000,
         "points": 0,
         "category": "Emergency Service Laws",
         "color": "pink"
