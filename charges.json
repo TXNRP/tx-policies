@@ -568,6 +568,26 @@
         "points": 0,
         "category": "Crimes Against A Person",
         "color": "yellow"
+    },
+    { 
+        "id": 57,
+        "title": "Harrasment",
+        "details": "The act of tormenting by continued persistent attacks and criticism",
+        "jailtime": 60,
+        "fine": 1000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 58,
+        "title": "Criminal Harassment",
+        "details": "The act of tormenting by continued persistent attacks and criticism repeatedly following from place to place the other person anyone known to them",
+        "jailtime": 180,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
     }
 ]
 ]
