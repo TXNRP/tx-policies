@@ -588,6 +588,106 @@
         "points": 0,
         "category": "Crimes Against A Person",
         "color": "yellow"
+    },
+    { 
+        "id": 59,
+        "title": "Arson",
+        "details": "A individual is guilty of this section if he/she causes a destruction of property through setting a fire or burning the property",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 60,
+        "title": "Aggravated Arson",
+        "details": "A individual is guilty of this section if he/she causes injury to a person through setting a fire or burning the individual",
+        "jailtime": 600,
+        "fine": 100000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 60,
+        "title": "Petty Theft / Shoplifting",
+        "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $250",
+        "jailtime": 60,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 61,
+        "title": "Theft",
+        "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $5,000",
+        "jailtime": 180,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 62,
+        "title": "Grand Theft",
+        "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at more than $5,000",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 63,
+        "title": "Grand Theft Auto",
+        "details": "A individual is guilty of this section if he/she knowingly steals a car, motorcycle, or any other type of motor vehicle",
+        "jailtime": 240,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 64,
+        "title": "Vandilism / Destruction Of Property",
+        "details": "A individual is guilty of this section if he/she knowingly causes damage to or destroys the property of others",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 65,
+        "title": "Bank Robbery",
+        "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 66,
+        "title": "Aggravated Bank Robbery",
+        "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value whilst acting in a threatening manor or brandoshing a firearm",
+        "jailtime": 600,
+        "fine": 100000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 67,
+        "title": "Burgalry",
+        "details": "A individual is guilty of this section if he/she is entering a residentioal or commercial building or room with the intent to commit a felony or a theft once inside",
+        "jailtime": 180,
+        "fine": 2750,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
     }
 ]
 ]
