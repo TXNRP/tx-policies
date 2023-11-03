@@ -338,7 +338,7 @@
         "points": 3,
         "category": "Emergency Service Laws",
         "color": "pink"
-    }
+    },
     { 
         "id": 35,
         "title": "Impersonation of A Police Officer",
@@ -398,6 +398,176 @@
         "points": 0,
         "category": "Emergency Service Laws",
         "color": "pink"
+    },
+    { 
+        "id": 41,
+        "title": "Prohibiion On Hunting",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure any Domesticated animals and or farm animals this also includes dolphins, whales, sharks or stingrays",
+        "jailtime": 0,
+        "fine": 2500,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 42,
+        "title": "Hunting Permits",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure wihtout a license a boar, coyote, crow, deer, fish, mountain lion, pigeon or rabbit ",
+        "jailtime": 0,
+        "fine": 900,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 43,
+        "title": "Hunting Hours",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure any animals between the hours of sunset and sunrise",
+        "jailtime": 0,
+        "fine": 755,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 44,
+        "title": "Hunting Methods",
+        "details": "No person may have loaded weapon in their vehicle, pistols do not apply if they are carried legally and subject is in possession of a permit for conceal carry in the state of Los Santos",
+        "jailtime": 0,
+        "fine": 1100,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 45,
+        "title": "Hunting Under The Influence",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure any animals while intoxicated",
+        "jailtime": 60,
+        "fine": 800,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 46,
+        "title": "Poaching",
+        "details": "A person who illegally takes, possesses, exports, imports, purchases, trades, barters, sells, or exchanges an animal, or any part of those animals for profit or for personal time",
+        "jailtime": 0,
+        "fine": 715,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 47,
+        "title": "Assualt",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person without the means of a deadly weapon",
+        "jailtime": 60,
+        "fine": 500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 47,
+        "title": "Aggravated Assualt",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person with the means of a deadly weapon",
+        "jailtime": 300,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 48,
+        "title": "Battery",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person without the means of a deadly weapon",
+        "jailtime": 180,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 49,
+        "title": "Aggravated Battery",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person with the means of a deadly weapon",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 50,
+        "title": "Involuntary Manslaughter (2nd Degree Manslaughter)",
+        "details": "One commits the offense when he or she recklessly performs acts, whether lawful or unlawful, which are likely to cause death or great bodily harm, and which do cuase the death of an individual",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 51,
+        "title": "Aggravated Involuntary Manslaughter (1st Degree Manslaughter)",
+        "details": "One commits the offense when he or she recklessly performs acts, whether lawful or unlawful, which are likely to cause death or great bodily harm, and which do cause the death of an individual if 2 or more people are killed during the act",
+        "jailtime": 420,
+        "fine": 25000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 52,
+        "title": "2nd Degree Murder",
+        "details": "An individual is guilty of this section if he/she killed an individual without lawful justification and either inted ti kill or do great bodily harm to that individual",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    }.
+    { 
+        "id": 53,
+        "title": "1st Degree Murder",
+        "details": "An individual is guilty of this section if he/she intend to kill or do great bodily harm",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 54,
+        "title": "Kidnapping",
+        "details": "An individual is guilty of this section if he/she takes unlawfully by force another against their will",
+        "jailtime": 600,
+        "fine": 100000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 55,
+        "title": "Illegal Dishcarge Of A Firearm",
+        "details": "This section prohibits the discharge of any firearm of any sorts on public property, unless an authorized government official, certain circumstances will be given to cases where discharging a firearm was used in self-defense",
+        "jailtime": 60,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 56,
+        "title": "Attempted Murder",
+        "details": "This section prohibits the discharge of any firearm of any sorts on public property, unless an authorized government official, certain circumstances will be given to cases where discharging a firearm was used in self-defense",
+        "jailtime": 60,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
     }
 ]
 ]
