@@ -562,9 +562,9 @@
     { 
         "id": 56,
         "title": "Attempted Murder",
-        "details": "This section prohibits the discharge of any firearm of any sorts on public property, unless an authorized government official, certain circumstances will be given to cases where discharging a firearm was used in self-defense",
-        "jailtime": 60,
-        "fine": 1500,
+        "details": "Attempted murder is the failed or aborted attempt to murder another person",
+        "jailtime": 300,
+        "fine": 5000,
         "points": 0,
         "category": "Crimes Against A Person",
         "color": "yellow"
