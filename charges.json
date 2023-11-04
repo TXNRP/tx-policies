@@ -688,5 +688,156 @@
         "points": 0,
         "category": "Crimes Against Property",
         "color": "yellow"
+    },
+    { 
+        "id": 68,
+        "title": "Trespassing",
+        "details": "A inidividual is guilty of this section if the person enters or remains on or in property of another",
+        "jailtime": 60,
+        "fine": 2000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 69,
+        "title": "Destruction Of Government property",
+        "details": "A inidividual is guilty of this section if he/she knowingly causes damahae to or destroys the property of the government",
+        "jailtime": 210,
+        "fine": 3500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 70,
+        "title": "Obstructing Justice",
+        "details": "A individual is guilty of this section if he/she attempt to hinder the discovery, apprehension, conviction or punishment of anyone who has committed a crime including bribery",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 71,
+        "title": "Failure To Comply",
+        "details": "A individual is guilty of this section if he/she fails to follow lawful requests or orders made by a peace officer or government official",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 71,
+        "title": "Failure To Identify",
+        "details": "A individual is guilty of this section if he/she fails to identify themselves when requested by a peace officer or govenment official",
+        "jailtime": 60,
+        "fine": 500,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 71,
+        "title": "Evading Police",
+        "details": "A individual is guilty of this section if he/she attempt to elude or resist law enfrocement by means of any motorized vehicle",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 6,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 72,
+        "title": "Felony Evading Police",
+        "details": "A individual is guilty of this section if he/she commits the act of reckless driving while evading police",
+        "jailtime": 240,
+        "fine": 5000,
+        "points": 6,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 73,
+        "title": "Resisting Arrest",
+        "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest",
+        "jailtime": 60,
+        "fine": 60,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 74,
+        "title": "Resisting Arrest With A Deadly Weapon",
+        "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest with the use of a deadly weapon",
+        "jailtime": 120,
+        "fine": 10000,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 75,
+        "title": "Possesion Of Marijuana With The Intent To Sell or Distribute",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 76,
+        "title": "Possesion Of A Controlled Substance",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of drugs other than marijuana or prescription drugs",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 77,
+        "title": "Possesion Of Drug paraphernalia",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any device or tool that could be used to inject or used to inhect or use any illegal drug",
+        "jailtime": 60,
+        "fine": 500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 77,
+        "title": "Possesion Of A Controlled Substance With The Intent To Sell or Distribute",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana with the intent to sell or distribute",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 78,
+        "title": "Possesion Of A Automatic Rifle",
+        "details": "A individual is guilty of this section if he/she hasin his/her possesion a rifle with full-auto",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 79,
+        "title": "Possesion With The Intent To Instill Fear",
+        "details": "An individual is guilty of this section if he/she has in his/her possesion of a firearm and uses it or displays it in a threatening manner to a person or property",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
     }
 ]
+ 
