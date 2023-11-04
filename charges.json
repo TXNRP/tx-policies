@@ -838,6 +838,46 @@
         "points": 0,
         "category": "Possesion",
         "color": "white"
+    },
+    { 
+        "id": 80,
+        "title": "Unlawful Concealed Carry Of A Handgun",
+        "details": "An individual is guilty of this section if he/she has in his/her possesion a legal firearm that is not visible to the public without a concealed carry permit",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 81,
+        "title": "Possesion Of A illegal Firearm",
+        "details": "An individual is guilty of this section if he/she has in his/her possesion an illegal firearm that is not registerd with the state of Los Santos",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 82,
+        "title": "Manufacture of A Controlled Substance With The Intent To Sell Or Distribute",
+        "details": "An individual is guilty of this section if he/she knowingly produces or involved in the production of any controlled substance or marijuana",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    }
+    { 
+        "id": 83,
+        "title": "Manufacture of A Controlled Substance With The Intent To Sell Or Distribute",
+        "details": "An individual is guilty of this section if he/she knowingly produces or involved in the production of any controlled substance or marijuana",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
     }
 ]
  
