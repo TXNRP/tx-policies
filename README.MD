@@ -7,5 +7,8 @@ The rules.json file is directly tied to https://txnrp.com/rules, Whenever a new 
 ### Charges
 The charges.json file is used in the MDT to add charges on to a user.
 
+### Tags
+The tags.json file is used in the MDT to associate certain features about a character (E.g. dangerous).
+
 # Making Changes
 Anyone is allowed to make a pull requesting adding or amending an existing rule/charge, However its existance needs to be justified and needs to be accepted by an maintainer (in this case Community Executives) of this repository before it can be merged.
