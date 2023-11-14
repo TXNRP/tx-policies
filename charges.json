@@ -1,12 +1,893 @@
 [
-    {
+    { 
         "id": 1,
-        "title": "Example Entry (First Degree Speeding)",
-        "details": "Drives in excess of the speed limit by more than 55 miles per hour",
+        "title": "Speeding Over 1-14 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no more than 14 mph",
         "jailtime": 0,
-        "fine": 1125,
-        "points": 3,
-        "category": "Traffic Violations",
+        "fine": 120,
+        "points": 0,
+        "category": "Speeding Violations",
         "color": "green"
+    },
+    { 
+        "id": 2,
+        "title": "Speeding Over 15-19 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 15 mph and no more than 19 mph",
+        "jailtime": 0,
+        "fine": 140,
+        "points": 0,
+        "category": "Speeding Violations",
+        "color": "green"
+    },
+    { 
+        "id": 3,
+        "title": "Speeding Over 20-25 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 20 mph and no more than 25 mph",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 3,
+        "category": "Speeding Violations",
+        "color": "green"
+    },
+    { 
+        "id": 4,
+        "title": "Speeding Over 26-34 Over The Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 26 mph and no more than 34 mph",
+        "jailtime": 0,
+        "fine": 1500,
+        "points": 3,
+        "category": "Speeding Violations",
+        "color": "green"
+    },
+    { 
+        "id": 5,
+        "title": "Speeding 35+ Over Posted Speed Limit",
+        "details": "An individual who exceeds the speed limit by no less than 35 mph",
+        "jailtime": 0,
+        "fine": 2500,
+        "points": 3,
+        "category": "Speeding Violations",
+        "color": "green"
+    },
+    { 
+        "id": 6,
+        "title": "Failure To Yield",
+        "details": "An individual who fails to adhere to a traffic control devices or move out the way upon the imediate approach of an authorized emergency vehicle making use of audible and visual signals",
+        "jailtime": 100,
+        "fine": 120,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 7,
+        "title": "Reckless Driving",
+        "details": "An individual who drives any vehicle with a wilful or wanton disregard for the safety of persons or property",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 8,
+        "title": "Motor Vehicle Contest",
+        "details": "An individual who drives any vehcile with intent to race a driver of another motor vehicle",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 9,
+        "title": "Improper Lane Usage",
+        "details": "An individual who drives any vehicle in the left lane wherin he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
+        "jailtime": 0,
+        "fine": 120,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 10,
+        "title": "Driving Without A Valid License",
+        "details": "A individual who is in operation of a motor vehicle on a highway or public roadway while not carrying a valid license",
+        "jailtime": 45,
+        "fine": 2500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 11,
+        "title": "Driving While License Suspended/Revoked",
+        "details": "An individual who operates a motor vehicle while their license is Suspended/Revoked",
+        "jailtime": 100,
+        "fine": 2500,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 12,
+        "title": "Driving Uder The Influence",
+        "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drig/narcotic that would impair his/her own driving",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 13,
+        "title": "Vehicle Registration",
+        "details": "An individual who operates a motor vehicle without the adequete registration for said vehicle",
+        "jailtime": 0,
+        "fine": 190,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 14,
+        "title": "Vehicle Insurance",
+        "details": "An individual who operates a motor vehicle without the adequete insurance for said vehicle",
+        "jailtime": 0,
+        "fine": 300,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 15,
+        "title": "Following Distance",
+        "details": "An individual shall not follow another vehicle more closely than is reasonable, having regard for the speed of said vehicle and the traffic upon, and the condition of the roadway",
+        "jailtime": 0,
+        "fine": 215,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 16,
+        "title": "Red Light Violation",
+        "details": "An individual shall stop at a marked limit line when coming up to a steady circular red signal",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 17,
+        "title": "Green Light Violation",
+        "details": "An individual shall proceed straight through, turn right or left or make a U turn unless a posted sign prohibits them from doing when faced with a curcular green signal",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 18,
+        "title": "Failure To Maintain Lanes",
+        "details": "An individual should maintain lanes at all times and not mount the right hand edge or curb except when overtaking and passing another vehicle proceeding in the same direction",
+        "jailtime": 0,
+        "fine": 150,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 19,
+        "title": "Impeding Traffic",
+        "details": "No person shall bring a vehicle to a complete stop upon a highway or roadway so as to impede or block the normal and reasonable movement of traffic unless the stop is a necessary for safe operation or in compliance with the law",
+        "jailtime": 0,
+        "fine": 200,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 20,
+        "title": "Unreasonably Slow",
+        "details": "No person shall drive upon a highway or roadway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necassary for safe operation, because of a grade, or in compliance with the law",
+        "jailtime": 0,
+        "fine": 165,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 21,
+        "title": "Stop Sign Violations",
+        "details": "The driver of any vehicle approaching a stop sign or pavement marking 'STOP' at the entrance to, or within, an intersection shall stop at a limit line",
+        "jailtime": 0,
+        "fine": 256,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 22,
+        "title": "Parking Violations",
+        "details": "No vehicle may park in a manner that obstructs a lane of traffic, entrance any footpath",
+        "jailtime": 0,
+        "fine": 210,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 23,
+        "title": "Alchohol Bevrages In A Motor Vehicle",
+        "details": "No driver shall drink any alcoholic beverage while in a vehicle upon a highway or roadway",
+        "jailtime": 0,
+        "fine": 400,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 24,
+        "title": "Illegal U-Turn",
+        "details": "No driver should perform a U-Turn unless a signs permits it",
+        "jailtime": 0,
+        "fine": 250,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 25,
+        "title": "Failure To Drive On Right Side Of Roadway",
+        "details": "An operator on a roadway of sufficient width sahll drive on the right half of the roadway unless a valid reason permits them to do so",
+        "jailtime": 0,
+        "fine": 1000,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 26,
+        "title": "Failure To Properly Display Headlights/Headlamps",
+        "details": "A vehicle shall display each lighted lamp and illuminating device required by this chapter to be on the vehicle at nightime",
+        "jailtime": 0,
+        "fine": 120,
+        "points": 0,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 27,
+        "title": "Boating Under The influence",
+        "details": "An individual is guilty if he/she operates a watercraft while under the influence of alcohol or any drug/narcotic that would impair his/her own driving",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 28,
+        "title": "Flying Under The Influence",
+        "details": "An individual is guilty if he/she operates a aircraft while under the influence of alcohol or any drug/narcotic that would impair his/her own driving",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 29,
+        "title": "Distracted Driving",
+        "details": "A person is guilty if he/she knowingly drives whilst distracted such as driving whilst using a mobile phone or without due care and attention",
+        "jailtime": 60,
+        "fine": 1000,
+        "points": 3,
+        "category": "Moving Violations",
+        "color": "red"
+    },
+    { 
+        "id": 30,
+        "title": "Hit And Run",
+        "details": "An individual is guilty of this section if he/she gets into an accident and leaves the scene either in a motor vehicle or by other means",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 6,
+        "category": "Motor Vehicle Accident",
+        "color": "blue"
+    },
+    { 
+        "id": 31,
+        "title": "Seatbbelt Violation",
+        "details": "An individual is guilty of this section if he/she does not wear a seatbelt whilst in a motor vehicle",
+        "jailtime": 0,
+        "fine": 200,
+        "points": 3,
+        "category": "Motor Vehicle Accident",
+        "color": "blue"
+    },
+    { 
+        "id": 32,
+        "title": "Use Of Red/White Lighting",
+        "details": "The use of Red/White lighting in a oscillating/rptating/flashing mannaer with the exception fo turn signals is prohibited if the vehicle is not goverment owned",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 33,
+        "title": "Use Of Blue Lighting",
+        "details": "The use of blue lighting in a oscillating/rptating/flashing mannaer with the exception fo turn signals is prohibited if the vehicle is not goverment owned",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 34,
+        "title": "Use Of Yellow/Amber lighting",
+        "details": "The use of yellow/amber lighting in a oscillating/rptating/flashing mannaer with the exception fo turn signals is prohibited if the vehicle is not used by state-authorized security agency",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 3,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 35,
+        "title": "Impersonation of A Police Officer",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 36,
+        "title": "Impersonation of A Police Officer While Carrying A Deadly Weapon",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer while carrying a deadly weapon",
+        "jailtime": 360,
+        "fine": 2500,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 37,
+        "title": "2nd Degree AggraImpersonation of A Police Officer ",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer in attempting or committing a felony",
+        "jailtime": 420,
+        "fine": 25000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 38,
+        "title": "1st Degree AggraImpersonation of A Police Officer ",
+        "details": "A person who knowingly and falsely represents himself or herself to be a peace officer of any jurisdiction in attempting or committing a forcible felony",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 39,
+        "title": "Impersonation Of An Emergency Services Agent",
+        "details": "A person who knowingly and falsely represents himself to be an emergency services worker of any jurisdictions in this state",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 40,
+        "title": "Misuse of A Government Hotline",
+        "details": "A person is guilty if he/she knowingly misuse the Government Hotline such as making false reports and/or prank calls",
+        "jailtime": 60,
+        "fine": 1000,
+        "points": 0,
+        "category": "Emergency Service Laws",
+        "color": "pink"
+    },
+    { 
+        "id": 41,
+        "title": "Prohibiion On Hunting",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure any Domesticated animals and or farm animals this also includes dolphins, whales, sharks or stingrays",
+        "jailtime": 0,
+        "fine": 2500,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 42,
+        "title": "Hunting Permits",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure wihtout a license a boar, coyote, crow, deer, fish, mountain lion, pigeon or rabbit ",
+        "jailtime": 0,
+        "fine": 900,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 43,
+        "title": "Hunting Hours",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure any animals between the hours of sunset and sunrise",
+        "jailtime": 0,
+        "fine": 755,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 44,
+        "title": "Hunting Methods",
+        "details": "No person may have loaded weapon in their vehicle, pistols do not apply if they are carried legally and subject is in possession of a permit for conceal carry in the state of Los Santos",
+        "jailtime": 0,
+        "fine": 1100,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 45,
+        "title": "Hunting Under The Influence",
+        "details": "No person may hunt, capture, bait, attempt to hunt, capture, bait or lure any animals while intoxicated",
+        "jailtime": 60,
+        "fine": 800,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 46,
+        "title": "Poaching",
+        "details": "A person who illegally takes, possesses, exports, imports, purchases, trades, barters, sells, or exchanges an animal, or any part of those animals for profit or for personal time",
+        "jailtime": 0,
+        "fine": 715,
+        "points": 0,
+        "category": "Fish And Game Laws",
+        "color": "black"
+    },
+    { 
+        "id": 47,
+        "title": "Assualt",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person without the means of a deadly weapon",
+        "jailtime": 60,
+        "fine": 500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 47,
+        "title": "Aggravated Assualt",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person with the means of a deadly weapon",
+        "jailtime": 300,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 48,
+        "title": "Battery",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person without the means of a deadly weapon",
+        "jailtime": 180,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 49,
+        "title": "Aggravated Battery",
+        "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person with the means of a deadly weapon",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 50,
+        "title": "Involuntary Manslaughter (2nd Degree Manslaughter)",
+        "details": "One commits the offense when he or she recklessly performs acts, whether lawful or unlawful, which are likely to cause death or great bodily harm, and which do cuase the death of an individual",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 51,
+        "title": "Aggravated Involuntary Manslaughter (1st Degree Manslaughter)",
+        "details": "One commits the offense when he or she recklessly performs acts, whether lawful or unlawful, which are likely to cause death or great bodily harm, and which do cause the death of an individual if 2 or more people are killed during the act",
+        "jailtime": 420,
+        "fine": 25000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 52,
+        "title": "2nd Degree Murder",
+        "details": "An individual is guilty of this section if he/she killed an individual without lawful justification and either inted ti kill or do great bodily harm to that individual",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 53,
+        "title": "1st Degree Murder",
+        "details": "An individual is guilty of this section if he/she intend to kill or do great bodily harm",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 54,
+        "title": "Kidnapping",
+        "details": "An individual is guilty of this section if he/she takes unlawfully by force another against their will",
+        "jailtime": 600,
+        "fine": 100000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 55,
+        "title": "Illegal Dishcarge Of A Firearm",
+        "details": "This section prohibits the discharge of any firearm of any sorts on public property, unless an authorized government official, certain circumstances will be given to cases where discharging a firearm was used in self-defense",
+        "jailtime": 60,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 56,
+        "title": "Attempted Murder",
+        "details": "Attempted murder is the failed or aborted attempt to murder another person",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 57,
+        "title": "Harrasment",
+        "details": "The act of tormenting by continued persistent attacks and criticism",
+        "jailtime": 60,
+        "fine": 1000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 58,
+        "title": "Criminal Harassment",
+        "details": "The act of tormenting by continued persistent attacks and criticism repeatedly following from place to place the other person anyone known to them",
+        "jailtime": 180,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against A Person",
+        "color": "yellow"
+    },
+    { 
+        "id": 59,
+        "title": "Arson",
+        "details": "A individual is guilty of this section if he/she causes a destruction of property through setting a fire or burning the property",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 60,
+        "title": "Aggravated Arson",
+        "details": "A individual is guilty of this section if he/she causes injury to a person through setting a fire or burning the individual",
+        "jailtime": 600,
+        "fine": 100000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 60,
+        "title": "Petty Theft / Shoplifting",
+        "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $250",
+        "jailtime": 60,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 61,
+        "title": "Theft",
+        "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $5,000",
+        "jailtime": 180,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 62,
+        "title": "Grand Theft",
+        "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at more than $5,000",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 63,
+        "title": "Grand Theft Auto",
+        "details": "A individual is guilty of this section if he/she knowingly steals a car, motorcycle, or any other type of motor vehicle",
+        "jailtime": 240,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 64,
+        "title": "Vandilism / Destruction Of Property",
+        "details": "A individual is guilty of this section if he/she knowingly causes damage to or destroys the property of others",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 65,
+        "title": "Bank Robbery",
+        "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value",
+        "jailtime": 480,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 66,
+        "title": "Aggravated Bank Robbery",
+        "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value whilst acting in a threatening manor or brandoshing a firearm",
+        "jailtime": 600,
+        "fine": 100000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 67,
+        "title": "Burgalry",
+        "details": "A individual is guilty of this section if he/she is entering a residentioal or commercial building or room with the intent to commit a felony or a theft once inside",
+        "jailtime": 180,
+        "fine": 2750,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 68,
+        "title": "Trespassing",
+        "details": "A inidividual is guilty of this section if the person enters or remains on or in property of another",
+        "jailtime": 60,
+        "fine": 2000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 69,
+        "title": "Destruction Of Government property",
+        "details": "A inidividual is guilty of this section if he/she knowingly causes damahae to or destroys the property of the government",
+        "jailtime": 210,
+        "fine": 3500,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
+    },
+    { 
+        "id": 70,
+        "title": "Obstructing Justice",
+        "details": "A individual is guilty of this section if he/she attempt to hinder the discovery, apprehension, conviction or punishment of anyone who has committed a crime including bribery",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 71,
+        "title": "Failure To Comply",
+        "details": "A individual is guilty of this section if he/she fails to follow lawful requests or orders made by a peace officer or government official",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 71,
+        "title": "Failure To Identify",
+        "details": "A individual is guilty of this section if he/she fails to identify themselves when requested by a peace officer or govenment official",
+        "jailtime": 60,
+        "fine": 500,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 71,
+        "title": "Evading Police",
+        "details": "A individual is guilty of this section if he/she attempt to elude or resist law enfrocement by means of any motorized vehicle",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 6,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 72,
+        "title": "Felony Evading Police",
+        "details": "A individual is guilty of this section if he/she commits the act of reckless driving while evading police",
+        "jailtime": 240,
+        "fine": 5000,
+        "points": 6,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 73,
+        "title": "Resisting Arrest",
+        "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest",
+        "jailtime": 60,
+        "fine": 60,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 74,
+        "title": "Resisting Arrest With A Deadly Weapon",
+        "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest with the use of a deadly weapon",
+        "jailtime": 120,
+        "fine": 10000,
+        "points": 0,
+        "category": "Crimes Against Justice",
+        "color": "brown"
+    },
+    { 
+        "id": 75,
+        "title": "Possesion Of Marijuana With The Intent To Sell or Distribute",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 76,
+        "title": "Possesion Of A Controlled Substance",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of drugs other than marijuana or prescription drugs",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 77,
+        "title": "Possesion Of Drug paraphernalia",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any device or tool that could be used to inject or used to inhect or use any illegal drug",
+        "jailtime": 60,
+        "fine": 500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 77,
+        "title": "Possesion Of A Controlled Substance With The Intent To Sell or Distribute",
+        "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana with the intent to sell or distribute",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 78,
+        "title": "Possesion Of A Automatic Rifle",
+        "details": "A individual is guilty of this section if he/she hasin his/her possesion a rifle with full-auto",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 79,
+        "title": "Possesion With The Intent To Instill Fear",
+        "details": "An individual is guilty of this section if he/she has in his/her possesion of a firearm and uses it or displays it in a threatening manner to a person or property",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 80,
+        "title": "Unlawful Concealed Carry Of A Handgun",
+        "details": "An individual is guilty of this section if he/she has in his/her possesion a legal firearm that is not visible to the public without a concealed carry permit",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 81,
+        "title": "Possesion Of A illegal Firearm",
+        "details": "An individual is guilty of this section if he/she has in his/her possesion an illegal firearm that is not registerd with the state of Los Santos",
+        "jailtime": 180,
+        "fine": 2500,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 82,
+        "title": "Manufacture of A Controlled Substance With The Intent To Sell Or Distribute",
+        "details": "An individual is guilty of this section if he/she knowingly produces or involved in the production of any controlled substance or marijuana",
+        "jailtime": 360,
+        "fine": 10000,
+        "points": 0,
+        "category": "Possesion",
+        "color": "white"
+    },
+    { 
+        "id": 83,
+        "title": "Unlawful Arrest",
+        "details": "An individual is guilty of this section if he/she makes an arrest without lawful probable cause",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 84,
+        "title": "Excessive Use Of Force",
+        "details": "An individual is guilty of this section if he/she makes an arrest without lawful probable cause",
+        "jailtime": 120,
+        "fine": 1500,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
     }
 ]
+ 
