@@ -888,6 +888,56 @@
         "points": 0,
         "category": "Additional offense",
         "color": "orange"
+    },
+    { 
+        "id": 85,
+        "title": "Failure To Mirandize",
+        "details": "An arresting officer is guilty of this section if he/she fails to read a suspect the miranda rights before asking any incriminating questions",
+        "jailtime": 0,
+        "fine": 250,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 86,
+        "title": "Window Tint Violation",
+        "details": "Any vehicle must allow 25% or more light intop the vehicle",
+        "jailtime": 0,
+        "fine": 100,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 87,
+        "title": "Disorderly Conduct",
+        "details": "A person commits an offense if he/she intetnionally or knowingly use abusive, indecent, profane or vulgar language in a public place",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 88,
+        "title": "Public Intoxication",
+        "details": "A person commits an offense if the person appears in a public place while intoxicated",
+        "jailtime": 0,
+        "fine": 1000,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 89,
+        "title": "Animal Cruelty",
+        "details": "A person commits and offense if the person intetionally tortures an animal in a cruel manner or kills",
+        "jailtime": 10,
+        "fine": 1500,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
     }
 ]
  
