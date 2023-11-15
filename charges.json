@@ -930,7 +930,7 @@
         "color": "orange"
     },
     { 
-        "id": 89,
+        "id": 90,
         "title": "Animal Cruelty",
         "details": "A person commits and offense if the person intetionally tortures an animal in a cruel manner or kills",
         "jailtime": 10,
@@ -938,6 +938,56 @@
         "points": 0,
         "category": "Additional offense",
         "color": "orange"
+    },
+    { 
+        "id": 91,
+        "title": "Drug Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly has possession of a controlled substance with the intent to distribute weighing at less than 400 grams in total",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 92,
+        "title": "Felony Drug Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly has possession of a controlled substance with the intent to distribute weighing at more than 400 grams in total",
+        "jailtime": 600,
+        "fine": 10000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 93,
+        "title": "Weapons Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly supplies illegal weapon to persons whom should not be allowed to carry a weapon and/or commits a misdemeanor",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 94,
+        "title": "Felony Weapons Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly supplies illegal weapon to persons whom should not be allowed to carry a weapon and/or commits a felony",
+        "jailtime": 600,
+        "fine": 10000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 95,
+        "title": "Human Trafficking",
+        "details": "An individual is guilty of this section if he/she kidnaps a person and bring them across a border against their will to perform illegal actions",
+        "jailtime": 420,
+        "fine": 10000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
     }
 ]
  
