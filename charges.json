@@ -111,7 +111,7 @@
     },
     { 
         "id": 12,
-        "title": "Driving Uder The Influence",
+        "title": "Driving Under The Influence",
         "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drig/narcotic that would impair his/her own driving",
         "jailtime": 120,
         "fine": 1500,
@@ -301,7 +301,7 @@
     },
     { 
         "id": 31,
-        "title": "Seatbbelt Violation",
+        "title": "Seatbelt Violation",
         "details": "An individual is guilty of this section if he/she does not wear a seatbelt whilst in a motor vehicle",
         "jailtime": 0,
         "fine": 200,
