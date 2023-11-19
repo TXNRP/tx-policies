@@ -52,7 +52,7 @@
     { 
         "id": 6,
         "title": "Failure To Yield",
-        "details": "An individual who fails to adhere to a traffic control devices or move out the way upon the imediate approach of an authorized emergency vehicle making use of audible and visual signals",
+        "details": "An individual who fails to adhere to a traffic control devices or move out the way upon the immediate approach of an authorized emergency vehicle making use of audible and visual signals",
         "jailtime": 100,
         "fine": 120,
         "points": 3,
@@ -72,7 +72,7 @@
     { 
         "id": 8,
         "title": "Motor Vehicle Contest",
-        "details": "An individual who drives any vehcile with intent to race a driver of another motor vehicle",
+        "details": "An individual who drives any vehicle with intent to race a driver of another motor vehicle",
         "jailtime": 180,
         "fine": 2500,
         "points": 3,
@@ -82,7 +82,7 @@
     { 
         "id": 9,
         "title": "Improper Lane Usage",
-        "details": "An individual who drives any vehicle in the left lane wherin he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
+        "details": "An individual who drives any vehicle in the left lane where in he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
         "jailtime": 0,
         "fine": 120,
         "points": 3,
@@ -112,7 +112,7 @@
     { 
         "id": 12,
         "title": "Driving Under The Influence",
-        "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drig/narcotic that would impair his/her own driving",
+        "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drug/narcotic that would impair his/her own driving",
         "jailtime": 120,
         "fine": 1500,
         "points": 3,
@@ -122,7 +122,7 @@
     { 
         "id": 13,
         "title": "Vehicle Registration",
-        "details": "An individual who operates a motor vehicle without the adequete registration for said vehicle",
+        "details": "An individual who operates a motor vehicle without the adequate registration for said vehicle",
         "jailtime": 0,
         "fine": 190,
         "points": 3,
@@ -132,7 +132,7 @@
     { 
         "id": 14,
         "title": "Vehicle Insurance",
-        "details": "An individual who operates a motor vehicle without the adequete insurance for said vehicle",
+        "details": "An individual who operates a motor vehicle without the adequate insurance for said vehicle",
         "jailtime": 0,
         "fine": 300,
         "points": 3,
@@ -162,7 +162,7 @@
     { 
         "id": 17,
         "title": "Green Light Violation",
-        "details": "An individual shall proceed straight through, turn right or left or make a U turn unless a posted sign prohibits them from doing when faced with a curcular green signal",
+        "details": "An individual shall proceed straight through, turn right or left or make a U turn unless a posted sign prohibits them from doing when faced with a circular green signal",
         "jailtime": 0,
         "fine": 500,
         "points": 3,
@@ -192,7 +192,7 @@
     { 
         "id": 20,
         "title": "Unreasonably Slow",
-        "details": "No person shall drive upon a highway or roadway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necassary for safe operation, because of a grade, or in compliance with the law",
+        "details": "No person shall drive upon a highway or roadway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necessary for safe operation, because of a grade, or in compliance with the law",
         "jailtime": 0,
         "fine": 165,
         "points": 0,
@@ -221,7 +221,7 @@
     },
     { 
         "id": 23,
-        "title": "Alchohol Bevrages In A Motor Vehicle",
+        "title": "Alcohol Beverages In A Motor Vehicle",
         "details": "No driver shall drink any alcoholic beverage while in a vehicle upon a highway or roadway",
         "jailtime": 0,
         "fine": 400,
@@ -242,7 +242,7 @@
     { 
         "id": 25,
         "title": "Failure To Drive On Right Side Of Roadway",
-        "details": "An operator on a roadway of sufficient width sahll drive on the right half of the roadway unless a valid reason permits them to do so",
+        "details": "An operator on a roadway of sufficient width shall drive on the right half of the roadway unless a valid reason permits them to do so",
         "jailtime": 0,
         "fine": 1000,
         "points": 3,
@@ -252,7 +252,7 @@
     { 
         "id": 26,
         "title": "Failure To Properly Display Headlights/Headlamps",
-        "details": "A vehicle shall display each lighted lamp and illuminating device required by this chapter to be on the vehicle at nightime",
+        "details": "A vehicle shall display each lighted lamp and illuminating device required by this chapter to be on the vehicle at night time",
         "jailtime": 0,
         "fine": 120,
         "points": 0,
