@@ -52,7 +52,7 @@
     { 
         "id": 6,
         "title": "Failure To Yield",
-        "details": "An individual who fails to adhere to a traffic control devices or move out the way upon the imediate approach of an authorized emergency vehicle making use of audible and visual signals",
+        "details": "An individual who fails to adhere to a traffic control devices or move out the way upon the immediate approach of an authorized emergency vehicle making use of audible and visual signals",
         "jailtime": 100,
         "fine": 120,
         "points": 3,
@@ -72,7 +72,7 @@
     { 
         "id": 8,
         "title": "Motor Vehicle Contest",
-        "details": "An individual who drives any vehcile with intent to race a driver of another motor vehicle",
+        "details": "An individual who drives any vehicle with intent to race a driver of another motor vehicle",
         "jailtime": 180,
         "fine": 2500,
         "points": 3,
@@ -82,7 +82,7 @@
     { 
         "id": 9,
         "title": "Improper Lane Usage",
-        "details": "An individual who drives any vehicle in the left lane wherin he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
+        "details": "An individual who drives any vehicle in the left lane where in he or she crosses a double (non-dotted) line going into oncoming lanes of traffic or fails to maintain a single lane",
         "jailtime": 0,
         "fine": 120,
         "points": 3,
@@ -111,8 +111,8 @@
     },
     { 
         "id": 12,
-        "title": "Driving Uder The Influence",
-        "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drig/narcotic that would impair his/her own driving",
+        "title": "Driving Under The Influence",
+        "details": "An individual who operates a motor vehicle while they are under the influence of alcohol or any drug/narcotic that would impair his/her own driving",
         "jailtime": 120,
         "fine": 1500,
         "points": 3,
@@ -122,7 +122,7 @@
     { 
         "id": 13,
         "title": "Vehicle Registration",
-        "details": "An individual who operates a motor vehicle without the adequete registration for said vehicle",
+        "details": "An individual who operates a motor vehicle without the adequate registration for said vehicle",
         "jailtime": 0,
         "fine": 190,
         "points": 3,
@@ -132,7 +132,7 @@
     { 
         "id": 14,
         "title": "Vehicle Insurance",
-        "details": "An individual who operates a motor vehicle without the adequete insurance for said vehicle",
+        "details": "An individual who operates a motor vehicle without the adequate insurance for said vehicle",
         "jailtime": 0,
         "fine": 300,
         "points": 3,
@@ -162,7 +162,7 @@
     { 
         "id": 17,
         "title": "Green Light Violation",
-        "details": "An individual shall proceed straight through, turn right or left or make a U turn unless a posted sign prohibits them from doing when faced with a curcular green signal",
+        "details": "An individual shall proceed straight through, turn right or left or make a U turn unless a posted sign prohibits them from doing when faced with a circular green signal",
         "jailtime": 0,
         "fine": 500,
         "points": 3,
@@ -192,7 +192,7 @@
     { 
         "id": 20,
         "title": "Unreasonably Slow",
-        "details": "No person shall drive upon a highway or roadway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necassary for safe operation, because of a grade, or in compliance with the law",
+        "details": "No person shall drive upon a highway or roadway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necessary for safe operation, because of a grade, or in compliance with the law",
         "jailtime": 0,
         "fine": 165,
         "points": 0,
@@ -221,7 +221,7 @@
     },
     { 
         "id": 23,
-        "title": "Alchohol Bevrages In A Motor Vehicle",
+        "title": "Alcohol Beverages In A Motor Vehicle",
         "details": "No driver shall drink any alcoholic beverage while in a vehicle upon a highway or roadway",
         "jailtime": 0,
         "fine": 400,
@@ -242,7 +242,7 @@
     { 
         "id": 25,
         "title": "Failure To Drive On Right Side Of Roadway",
-        "details": "An operator on a roadway of sufficient width sahll drive on the right half of the roadway unless a valid reason permits them to do so",
+        "details": "An operator on a roadway of sufficient width shall drive on the right half of the roadway unless a valid reason permits them to do so",
         "jailtime": 0,
         "fine": 1000,
         "points": 3,
@@ -252,7 +252,7 @@
     { 
         "id": 26,
         "title": "Failure To Properly Display Headlights/Headlamps",
-        "details": "A vehicle shall display each lighted lamp and illuminating device required by this chapter to be on the vehicle at nightime",
+        "details": "A vehicle shall display each lighted lamp and illuminating device required by this chapter to be on the vehicle at night time",
         "jailtime": 0,
         "fine": 120,
         "points": 0,
@@ -301,7 +301,7 @@
     },
     { 
         "id": 31,
-        "title": "Seatbbelt Violation",
+        "title": "Seatbelt Violation",
         "details": "An individual is guilty of this section if he/she does not wear a seatbelt whilst in a motor vehicle",
         "jailtime": 0,
         "fine": 200,
@@ -470,7 +470,7 @@
         "color": "yellow"
     },
     { 
-        "id": 47,
+        "id": 48,
         "title": "Aggravated Assualt",
         "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person with the means of a deadly weapon",
         "jailtime": 300,
@@ -480,7 +480,7 @@
         "color": "yellow"
     },
     { 
-        "id": 48,
+        "id": 49,
         "title": "Battery",
         "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person without the means of a deadly weapon",
         "jailtime": 180,
@@ -490,7 +490,7 @@
         "color": "yellow"
     },
     { 
-        "id": 49,
+        "id": 50,
         "title": "Aggravated Battery",
         "details": "An individual is guilty of this section if he/she makes a direct threat to inflict bodily harm on another person with the means of a deadly weapon",
         "jailtime": 300,
@@ -500,7 +500,7 @@
         "color": "yellow"
     },
     { 
-        "id": 50,
+        "id": 51,
         "title": "Involuntary Manslaughter (2nd Degree Manslaughter)",
         "details": "One commits the offense when he or she recklessly performs acts, whether lawful or unlawful, which are likely to cause death or great bodily harm, and which do cuase the death of an individual",
         "jailtime": 360,
@@ -510,7 +510,7 @@
         "color": "yellow"
     },
     { 
-        "id": 51,
+        "id": 52,
         "title": "Aggravated Involuntary Manslaughter (1st Degree Manslaughter)",
         "details": "One commits the offense when he or she recklessly performs acts, whether lawful or unlawful, which are likely to cause death or great bodily harm, and which do cause the death of an individual if 2 or more people are killed during the act",
         "jailtime": 420,
@@ -520,7 +520,7 @@
         "color": "yellow"
     },
     { 
-        "id": 52,
+        "id": 53,
         "title": "2nd Degree Murder",
         "details": "An individual is guilty of this section if he/she killed an individual without lawful justification and either inted ti kill or do great bodily harm to that individual",
         "jailtime": 480,
@@ -530,7 +530,7 @@
         "color": "yellow"
     },
     { 
-        "id": 53,
+        "id": 54,
         "title": "1st Degree Murder",
         "details": "An individual is guilty of this section if he/she intend to kill or do great bodily harm",
         "jailtime": 480,
@@ -540,7 +540,7 @@
         "color": "yellow"
     },
     { 
-        "id": 54,
+        "id": 55,
         "title": "Kidnapping",
         "details": "An individual is guilty of this section if he/she takes unlawfully by force another against their will",
         "jailtime": 600,
@@ -550,7 +550,7 @@
         "color": "yellow"
     },
     { 
-        "id": 55,
+        "id": 56,
         "title": "Illegal Dishcarge Of A Firearm",
         "details": "This section prohibits the discharge of any firearm of any sorts on public property, unless an authorized government official, certain circumstances will be given to cases where discharging a firearm was used in self-defense",
         "jailtime": 60,
@@ -560,7 +560,7 @@
         "color": "yellow"
     },
     { 
-        "id": 56,
+        "id": 57,
         "title": "Attempted Murder",
         "details": "Attempted murder is the failed or aborted attempt to murder another person",
         "jailtime": 300,
@@ -570,7 +570,7 @@
         "color": "yellow"
     },
     { 
-        "id": 57,
+        "id": 58,
         "title": "Harrasment",
         "details": "The act of tormenting by continued persistent attacks and criticism",
         "jailtime": 60,
@@ -580,7 +580,7 @@
         "color": "yellow"
     },
     { 
-        "id": 58,
+        "id": 59,
         "title": "Criminal Harassment",
         "details": "The act of tormenting by continued persistent attacks and criticism repeatedly following from place to place the other person anyone known to them",
         "jailtime": 180,
@@ -590,7 +590,7 @@
         "color": "yellow"
     },
     { 
-        "id": 59,
+        "id": 60,
         "title": "Arson",
         "details": "A individual is guilty of this section if he/she causes a destruction of property through setting a fire or burning the property",
         "jailtime": 480,
@@ -600,7 +600,7 @@
         "color": "yellow"
     },
     { 
-        "id": 60,
+        "id": 61,
         "title": "Aggravated Arson",
         "details": "A individual is guilty of this section if he/she causes injury to a person through setting a fire or burning the individual",
         "jailtime": 600,
@@ -610,7 +610,7 @@
         "color": "yellow"
     },
     { 
-        "id": 60,
+        "id": 62,
         "title": "Petty Theft / Shoplifting",
         "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $250",
         "jailtime": 60,
@@ -620,7 +620,7 @@
         "color": "yellow"
     },
     { 
-        "id": 61,
+        "id": 63,
         "title": "Theft",
         "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at less than $5,000",
         "jailtime": 180,
@@ -630,7 +630,7 @@
         "color": "yellow"
     },
     { 
-        "id": 62,
+        "id": 64,
         "title": "Grand Theft",
         "details": "A individual is guilty of this section if he/she knowingly takes property from a bussiness or person value at more than $5,000",
         "jailtime": 180,
@@ -640,7 +640,7 @@
         "color": "yellow"
     },
     { 
-        "id": 63,
+        "id": 65,
         "title": "Grand Theft Auto",
         "details": "A individual is guilty of this section if he/she knowingly steals a car, motorcycle, or any other type of motor vehicle",
         "jailtime": 240,
@@ -650,7 +650,7 @@
         "color": "yellow"
     },
     { 
-        "id": 64,
+        "id": 66,
         "title": "Vandilism / Destruction Of Property",
         "details": "A individual is guilty of this section if he/she knowingly causes damage to or destroys the property of others",
         "jailtime": 180,
@@ -660,7 +660,7 @@
         "color": "yellow"
     },
     { 
-        "id": 65,
+        "id": 67,
         "title": "Bank Robbery",
         "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value",
         "jailtime": 480,
@@ -670,7 +670,7 @@
         "color": "yellow"
     },
     { 
-        "id": 66,
+        "id": 68,
         "title": "Aggravated Bank Robbery",
         "details": "A individual is guilty of this section if he/she robs a bank and recieves any amount of cash or property of any value whilst acting in a threatening manor or brandoshing a firearm",
         "jailtime": 600,
@@ -680,7 +680,7 @@
         "color": "yellow"
     },
     { 
-        "id": 67,
+        "id": 69,
         "title": "Burgalry",
         "details": "A individual is guilty of this section if he/she is entering a residentioal or commercial building or room with the intent to commit a felony or a theft once inside",
         "jailtime": 180,
@@ -690,7 +690,7 @@
         "color": "yellow"
     },
     { 
-        "id": 68,
+        "id": 70,
         "title": "Trespassing",
         "details": "A inidividual is guilty of this section if the person enters or remains on or in property of another",
         "jailtime": 60,
@@ -700,7 +700,7 @@
         "color": "yellow"
     },
     { 
-        "id": 69,
+        "id": 71,
         "title": "Destruction Of Government property",
         "details": "A inidividual is guilty of this section if he/she knowingly causes damahae to or destroys the property of the government",
         "jailtime": 210,
@@ -710,7 +710,7 @@
         "color": "yellow"
     },
     { 
-        "id": 70,
+        "id": 72,
         "title": "Obstructing Justice",
         "details": "A individual is guilty of this section if he/she attempt to hinder the discovery, apprehension, conviction or punishment of anyone who has committed a crime including bribery",
         "jailtime": 180,
@@ -720,7 +720,7 @@
         "color": "brown"
     },
     { 
-        "id": 71,
+        "id": 73,
         "title": "Failure To Comply",
         "details": "A individual is guilty of this section if he/she fails to follow lawful requests or orders made by a peace officer or government official",
         "jailtime": 120,
@@ -730,7 +730,7 @@
         "color": "brown"
     },
     { 
-        "id": 71,
+        "id": 74,
         "title": "Failure To Identify",
         "details": "A individual is guilty of this section if he/she fails to identify themselves when requested by a peace officer or govenment official",
         "jailtime": 60,
@@ -740,7 +740,7 @@
         "color": "brown"
     },
     { 
-        "id": 71,
+        "id": 75,
         "title": "Evading Police",
         "details": "A individual is guilty of this section if he/she attempt to elude or resist law enfrocement by means of any motorized vehicle",
         "jailtime": 180,
@@ -750,7 +750,7 @@
         "color": "brown"
     },
     { 
-        "id": 72,
+        "id": 76,
         "title": "Felony Evading Police",
         "details": "A individual is guilty of this section if he/she commits the act of reckless driving while evading police",
         "jailtime": 240,
@@ -760,7 +760,7 @@
         "color": "brown"
     },
     { 
-        "id": 73,
+        "id": 77,
         "title": "Resisting Arrest",
         "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest",
         "jailtime": 60,
@@ -770,7 +770,7 @@
         "color": "brown"
     },
     { 
-        "id": 74,
+        "id": 78,
         "title": "Resisting Arrest With A Deadly Weapon",
         "details": "A individual is guilty of this section if he/she commits the offense of resisting arrest, search, or transportation when he or she intetionally prevents a peade officer from conducting a search or making an arrest with the use of a deadly weapon",
         "jailtime": 120,
@@ -780,7 +780,7 @@
         "color": "brown"
     },
     { 
-        "id": 75,
+        "id": 79,
         "title": "Possesion Of Marijuana With The Intent To Sell or Distribute",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana",
         "jailtime": 180,
@@ -790,7 +790,7 @@
         "color": "white"
     },
     { 
-        "id": 76,
+        "id": 80,
         "title": "Possesion Of A Controlled Substance",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of drugs other than marijuana or prescription drugs",
         "jailtime": 120,
@@ -800,7 +800,7 @@
         "color": "white"
     },
     { 
-        "id": 77,
+        "id": 81,
         "title": "Possesion Of Drug paraphernalia",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any device or tool that could be used to inject or used to inhect or use any illegal drug",
         "jailtime": 60,
@@ -810,7 +810,7 @@
         "color": "white"
     },
     { 
-        "id": 77,
+        "id": 82,
         "title": "Possesion Of A Controlled Substance With The Intent To Sell or Distribute",
         "details": "A individual is guilty of this section if he/she has in his/her possesion any amount of marijuana with the intent to sell or distribute",
         "jailtime": 300,
@@ -820,7 +820,7 @@
         "color": "white"
     },
     { 
-        "id": 78,
+        "id": 83,
         "title": "Possesion Of A Automatic Rifle",
         "details": "A individual is guilty of this section if he/she hasin his/her possesion a rifle with full-auto",
         "jailtime": 120,
@@ -830,7 +830,7 @@
         "color": "white"
     },
     { 
-        "id": 79,
+        "id": 84,
         "title": "Possesion With The Intent To Instill Fear",
         "details": "An individual is guilty of this section if he/she has in his/her possesion of a firearm and uses it or displays it in a threatening manner to a person or property",
         "jailtime": 360,
@@ -840,7 +840,7 @@
         "color": "white"
     },
     { 
-        "id": 80,
+        "id": 85,
         "title": "Unlawful Concealed Carry Of A Handgun",
         "details": "An individual is guilty of this section if he/she has in his/her possesion a legal firearm that is not visible to the public without a concealed carry permit",
         "jailtime": 120,
@@ -850,7 +850,7 @@
         "color": "white"
     },
     { 
-        "id": 81,
+        "id": 86,
         "title": "Possesion Of A illegal Firearm",
         "details": "An individual is guilty of this section if he/she has in his/her possesion an illegal firearm that is not registerd with the state of Los Santos",
         "jailtime": 180,
@@ -860,7 +860,7 @@
         "color": "white"
     },
     { 
-        "id": 82,
+        "id": 87,
         "title": "Manufacture of A Controlled Substance With The Intent To Sell Or Distribute",
         "details": "An individual is guilty of this section if he/she knowingly produces or involved in the production of any controlled substance or marijuana",
         "jailtime": 360,
@@ -870,7 +870,7 @@
         "color": "white"
     },
     { 
-        "id": 83,
+        "id": 88,
         "title": "Unlawful Arrest",
         "details": "An individual is guilty of this section if he/she makes an arrest without lawful probable cause",
         "jailtime": 120,
@@ -880,7 +880,7 @@
         "color": "orange"
     },
     { 
-        "id": 84,
+        "id": 89,
         "title": "Excessive Use Of Force",
         "details": "An individual is guilty of this section if he/she makes an arrest without lawful probable cause",
         "jailtime": 120,
@@ -888,6 +888,106 @@
         "points": 0,
         "category": "Additional offense",
         "color": "orange"
+    },
+    { 
+        "id": 90,
+        "title": "Failure To Mirandize",
+        "details": "An arresting officer is guilty of this section if he/she fails to read a suspect the miranda rights before asking any incriminating questions",
+        "jailtime": 0,
+        "fine": 250,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 91,
+        "title": "Window Tint Violation",
+        "details": "Any vehicle must allow 25% or more light intop the vehicle",
+        "jailtime": 0,
+        "fine": 100,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 92,
+        "title": "Disorderly Conduct",
+        "details": "A person commits an offense if he/she intetnionally or knowingly use abusive, indecent, profane or vulgar language in a public place",
+        "jailtime": 0,
+        "fine": 500,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 93,
+        "title": "Public Intoxication",
+        "details": "A person commits an offense if the person appears in a public place while intoxicated",
+        "jailtime": 0,
+        "fine": 1000,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 94,
+        "title": "Animal Cruelty",
+        "details": "A person commits and offense if the person intetionally tortures an animal in a cruel manner or kills",
+        "jailtime": 10,
+        "fine": 1500,
+        "points": 0,
+        "category": "Additional offense",
+        "color": "orange"
+    },
+    { 
+        "id": 95,
+        "title": "Drug Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly has possession of a controlled substance with the intent to distribute weighing at less than 400 grams in total",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 96,
+        "title": "Felony Drug Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly has possession of a controlled substance with the intent to distribute weighing at more than 400 grams in total",
+        "jailtime": 600,
+        "fine": 10000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 97,
+        "title": "Weapons Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly supplies illegal weapon to persons whom should not be allowed to carry a weapon and/or commits a misdemeanor",
+        "jailtime": 300,
+        "fine": 5000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 98,
+        "title": "Felony Weapons Trafficking",
+        "details": "An individual is guilty of this section if he/she regularly supplies illegal weapon to persons whom should not be allowed to carry a weapon and/or commits a felony",
+        "jailtime": 600,
+        "fine": 10000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
+    },
+    { 
+        "id": 99,
+        "title": "Human Trafficking",
+        "details": "An individual is guilty of this section if he/she kidnaps a person and bring them across a border against their will to perform illegal actions",
+        "jailtime": 420,
+        "fine": 10000,
+        "points": 0,
+        "category": "Organized Crime",
+        "color": "grey"
     }
 ]
  
