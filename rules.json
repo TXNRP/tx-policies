@@ -1,55 +1,146 @@
 [
-    {
-        "title": "Roleplay Rules",
-        "isChild": false,
-        "rules": [
-            "R.1.0: Vehicle Death Match (VDM) - Using your vehicle as a weapon (Running players over, causing explosions, ramming player vehicles) without a valid roleplay reason is considered VDM.",
-            "R.1.1: Random Death Match (RDM) - Attacking another player without engaging in any form of quality roleplay is considered RDM. (eg. Giving enough time for them to comply with your order. “Put your hands up or I will shoot” and countdowns are not considered quality roleplay, please at least attempt to create an interesting roleplay story before considering violence.)",
-            "R.1.2: Breaking Roleplay - You must remain in character at all times, unless a uniformed Admin authorises you to speak out of character.",
-            "R.1.3: No Value of Life (NVL) - At all times you are to value your life, if you are clearly outnumbered or at an obvious disadvantage you should comply with demands.",
-            "R.1.4: Non-Consensual Sexual RP - Rape, Sexual Assault or ANY perceived non-consensual sexual contact be it through /me, emotes, voice, etc. MUST be consented to out of character by all parties present and staff made aware of this agreement in a TXNRP Discord ticket prior to this RP taking place.",
-            "R.1.5: Unrealistic Driving - Unrealistic driving is not permitted. Unrealistic driving is defined as performing unrealistic stunt jumps, driving off the side of cliffs/highways and driving on like nothing happened, and driving at extremely excessive speeds while in urban areas. During police chases excessive speed is permitted. If you experience an accident then you are expected to roleplay out the accident, both from your health perspective and the damage to your vehicle.",
-            "R.1.6: OOC Roleplay - You must not use OOC chat to broadcast events that you observe for example, you may not broadcast 'X are going to rob the bank'",
-            "R.1.7: Baiting - Taking deliberate actions to create a scenario where you get chased or engaged with, especially to cause a firefight. Examples: Robbing a service station with the intent of a gunfight, deliberately committing crimes in front of the police, swearing at a group of people.",
-            "R.1.8: Being In Character - What happens in Roleplay needs to stay within Roleplay. Do not bring in character issues outside of the game, likewise do not bring your real life issues with other players into the game. You ARE NOT your character and they ARE NOT you.",
-            "R.1.9: Transferring Money / Items - Transferring money or items between your own characters is not allowed by any method.",
-            "R.2.0: Interfering With Roleplay - Do not interfere with any roleplay that you are not a part of.",
-            "R.2.1: Combat Logging - Do not Combat Log, meaning do not leave during active scenes to avoid items being lost or trying to avoid a jail sentence.",
-            "R.2.2: Meta Gaming - Meta Gaming is When you use information from a person's live stream, YouTube video, or something someone told you out of character (OOC) in-game.",
-            "R.2.3: Power Gaming - Power Gaming for example  Taking someone hostage and 'forcing' them to give you the money in their bank account or *If taken into police custody and are cuffed* Running to a garage and taking out a vehicle while cuffed.",
-            "R.2.4: Military RP - Do not perform any type of Military RP. This includes wearing any uniforms or clothing associated with the military.",
-            "R.2.5: Trolling - Trolling of any type will not be tolerated and you will be punished accordingly if found doing so."
-        ]
-    },
-    {
-        "title": "Forum Rules",
-        "isChild": false,
-        "rules": [
-            ""
-        ]
-    },
-    {
-        "title": "Discord Rules",
-        "isChild": false,
-        "rules": [
-            "D.1.0: Spam or Mic Spam - Do not spam or mic spam in any text or voice channels.",
-            "D.1.1: Sound / Music Spam - Playing any sounds or music is prohibited in any channel. (Except for private channels) Some text channels on the discord server have their own rules, so make sure to read the pinned messages in each text/voice channel.",
-            "D.1.2: Derogatory Terms - Do not make any racial slurs, homophobic slurs, or derogatory terms in any text or voice channels.",
-            "D.1.3: Advertisements - Do not advertise anything in any text or voice channels.",
-            "D.1.4: Slander - Do not slander anyone in any text or voice channels.",
-            "D.1.5: Reporting - Do not report players in the standard text chat in-game or discord channels. Please be sure to use the relevant channels to report someone in the server, to report rulebreakers on the server. If you would like to request for a staff member, use the relevant report command.",
-            "D.1.6: File Distribution - Do not distribute any files or documents which may be harmful to a user.",
-            "D.1.7: Maturity - Maturity must be maintained at ALL TIMES, even when a Staff Member is not in the channel."
-        ]
-    },
-    {
-        "title": "Miscellaneous Rules",
-        "isChild": false,
-        "rules": [
-            "M.1.0: Purchasing - Do not purchase anything of some sort that displays the TXDPSRP/TX Network Logo, unless approved.",
-            "M.1.1: Do not send a virus or anything that will track anyone’s Internet Protocol (IP).",
-            "M.1.2: Plagiarising - Do not distribute or plagiarise any documents created within The TXDPSRP Network.",
-            "M.1.3: Social Media Accounts - Do not create any official TXDPSRP/TX Network social media accounts. This is handled by our Social Media Team."
-        ]
-    }
+  {
+    "title": "Roleplay Rules",
+    "isChild": false,
+    "rules": [
+      {
+        "id": "R.1.0 - Vehicle Death Match (VDM)",
+        "description": "Using your vehicle as a weapon (Running players over, causing explosions, ramming player vehicles) without a valid roleplay reason is considered VDM."
+      },
+      {
+        "id": "R.1.1 - Random Death Match (RDM)",
+        "description": "Attacking another player without engaging in any form of quality roleplay is considered RDM. (eg. Giving enough time for them to comply with your order. “Put your hands up or I will shoot” and countdowns are not considered quality roleplay, please at least attempt to create an interesting roleplay story before considering violence.)"
+      },
+      {
+        "id": "R.1.2 - Breaking Roleplay",
+        "description": "You must remain in character at all times, unless a uniformed Admin authorises you to speak out of character."
+      },
+      {
+        "id": "R.1.3 - No Value of Life (NVL)",
+        "description": "At all times you are to value your life, if you are clearly outnumbered or at an obvious disadvantage you should comply with demands."
+      },
+      {
+        "id": "R.1.4 - Non-Consensual Sexual RP",
+        "description": "Rape, Sexual Assault or ANY perceived non-consensual sexual contact be it through /me, emotes, voice, etc. MUST be consented to out of character by all parties present and staff made aware of this agreement in a TXNRP Discord ticket prior to this RP taking place."
+      },
+      {
+        "id": "R.1.5 - Unrealistic Driving",
+        "description": "Unrealistic driving is not permitted. Unrealistic driving is defined as performing unrealistic stunt jumps, driving off the side of cliffs/highways and driving on like nothing happened, and driving at extremely excessive speeds while in urban areas. During police chases excessive speed is permitted. If you experience an accident then you are expected to roleplay out the accident, both from your health perspective and the damage to your vehicle."
+      },
+      {
+        "id": "R.1.6 - OOC Roleplay",
+        "description": "You must not use OOC chat to broadcast events that you observe for example, you may not broadcast 'X are going to rob the bank'."
+      },
+      {
+        "id": "R.1.7 - Baiting",
+        "description": "Taking deliberate actions to create a scenario where you get chased or engaged with, especially to cause a firefight. Examples: Robbing a service station with the intent of a gunfight, deliberately committing crimes in front of the police, swearing at a group of people."
+      },
+      {
+        "id": "R.1.8 - Being In Character",
+        "description": "What happens in Roleplay needs to stay within Roleplay. Do not bring in character issues outside of the game, likewise do not bring your real life issues with other players into the game. You ARE NOT your character and they ARE NOT you."
+      },
+      {
+        "id": "R.1.9 - Transferring Money / Items",
+        "description": "Transferring money or items between your own characters is not allowed by any method."
+      },
+      {
+        "id": "R.2.0 - Interfering With Roleplay",
+        "description": "Do not interfere with any roleplay that you are not a part of."
+      },
+      {
+        "id": "R.2.1 - Combat Logging",
+        "description": "Do not Combat Log, meaning do not leave during active scenes to avoid items being lost or trying to avoid a jail sentence."
+      },
+      {
+        "id": "R.2.2 - Meta Gaming",
+        "description": "When you use information from a person's live stream, YouTube video, or something someone told you out of character (OOC) in-game."
+      },
+      {
+        "id": "R.2.3 - Power Gaming",
+        "description": "For example  Taking someone hostage and 'forcing' them to give you the money in their bank account or *If taken into police custody and are cuffed* Running to a garage and taking out a vehicle while cuffed."
+      },
+      {
+        "id": "R.2.4 - Military RP",
+        "description": "Do not perform any type of Military RP. This includes wearing any uniforms or clothing associated with the military."
+      },
+      {
+        "id": "R.2.5 - Trolling",
+        "description": "Trolling of any type will not be tolerated and you will be punished accordingly if found doing so."
+      }
+    ]
+  },
+  {
+    "title": "Forum Rules",
+    "isChild": false,
+    "rules": [
+      {
+        "id": "F.1.0 - Forum Rule 1",
+        "description": "Insert forum rule description here."
+      },
+      {
+        "id": "F.1.1 - Forum Rule 2",
+        "description": "Insert forum rule description here."
+      }
+    ]
+  },
+  {
+    "title": "Discord Rules",
+    "isChild": false,
+    "rules": [
+      {
+        "id": "D.1.0 - Spam or Mic Spam",
+        "description": "Do not spam or mic spam in any text or voice channels."
+      },
+      {
+        "id": "D.1.1 - Sound / Music Spam",
+        "description": "Playing any sounds or music is prohibited in any channel. (Except for private channels) Some text channels on the discord server have their own rules, so make sure to read the pinned messages in each text/voice channel."
+      },
+      {
+        "id": "D.1.2 - Derogatory Terms",
+        "description": "Do not make any racial slurs, homophobic slurs, or derogatory terms in any text or voice channels."
+      },
+      {
+        "id": "D.1.3 - Advertisements",
+        "description": "Do not advertise anything in any text or voice channels."
+      },
+      {
+        "id": "D.1.4 - Slander",
+        "description": "Do not slander anyone in any text or voice channels."
+      },
+      {
+        "id": "D.1.5 - Reporting",
+        "description": "Do not report players in the standard text chat in-game or discord channels. Please be sure to use the relevant channels to report someone in the server, to report rulebreakers on the server. If you would like to request for a staff member, use the relevant report command."
+      },
+      {
+        "id": "D.1.6 - File Distribution",
+        "description": "Do not distribute any files or documents which may be harmful to a user."
+      },
+      {
+        "id": "D.1.7 - Maturity",
+        "description": "Maturity must be maintained at ALL TIMES, even when a Staff Member is not in the channel."
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous Rules",
+    "isChild": false,
+    "rules": [
+      {
+        "id": "M.1.0 - Purchasing",
+        "description": "Do not purchase anything of some sort that displays the TXDPSRP/TX Network Logo, unless approved."
+      },
+      {
+        "id": "M.1.1 - Virus or IP Tracking",
+        "description": "Do not send a virus or anything that will track anyone’s Internet Protocol (IP)."
+      },
+      {
+        "id": "M.1.2 - Plagiarising",
+        "description": "Do not distribute or plagiarise any documents created within The TXDPSRP Network."
+      },
+      {
+        "id": "M.1.3 - Social Media Accounts",
+        "description": "Do not create any official TXDPSRP/TX Network social media accounts. This is handled by our Social Media Team."
+      }
+    ]
+  }
 ]
