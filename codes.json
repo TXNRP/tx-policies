@@ -392,8 +392,12 @@
         "description": "Medic Down [EMERGENCY]"
     },
     {
-        "code": "10-99",
+        "code": "10-99 A",
         "description": "Officer Down [EMERGENCY]"
+    },
+    {
+        "code": "10-99 B",
+        "description": "Officer Down [NON-EMERGENCY]"
     },
     {
         "code": "CODE 1",
