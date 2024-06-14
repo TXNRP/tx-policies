@@ -1,0 +1,434 @@
+[
+    {
+        "code": "10-1",
+        "description": "Call Phone"
+    },
+    {
+        "code": "10-2",
+        "description": "Loud and Clear"
+    },
+    {
+        "code": "10-3",
+        "description": "Stop Radio Chatter"
+    },
+    {
+        "code": "10-4",
+        "description": "Acknowledgement"
+    },
+    {
+        "code": "10-5",
+        "description": "Radio Check"
+    },
+    {
+        "code": "10-6",
+        "description": "Busy"
+    },
+    {
+        "code": "10-7",
+        "description": "Out of Service"
+    },
+    {
+        "code": "10-8",
+        "description": "Back in Service"
+    },
+    {
+        "code": "10-9",
+        "description": "Repeat"
+    },
+    {
+        "code": "10-10",
+        "description": "Fight in Progress"
+    },
+    {
+        "code": "10-11",
+        "description": "Secure Radio"
+    },
+    {
+        "code": "10-12",
+        "description": "Stand By"
+    },
+    {
+        "code": "10-13",
+        "description": "Stolen Vehicle"
+    },
+    {
+        "code": "10-14",
+        "description": "Radio Channel Change"
+    },
+    {
+        "code": "10-15",
+        "description": "Radio Off"
+    },
+    {
+        "code": "10-16",
+        "description": "Assist Motorist"
+    },
+    {
+        "code": "10-17",
+        "description": "Traffic Hazard"
+    },
+    {
+        "code": "10-18",
+        "description": "Protest on Roadway"
+    },
+    {
+        "code": "10-19",
+        "description": "ETA"
+    },
+    {
+        "code": "10-20",
+        "description": "Location"
+    },
+    {
+        "code": "10-21",
+        "description": ""
+    },
+    {
+        "code": "10-22",
+        "description": "Disregard"
+    },
+    {
+        "code": "10-23",
+        "description": "Arrived on Scene"
+    },
+    {
+        "code": "10-24",
+        "description": "" // what is a 24, like 24 these nuts in your mouth.
+    },
+    {
+        "code": "10-25",
+        "description": "BOLO"
+    },
+    {
+        "code": "10-26",
+        "description": ""
+    },
+    {
+        "code": "10-27",
+        "description": "Driver's License Check"
+    },
+    {
+        "code": "10-28",
+        "description": "Vehicle Registration Check"
+    },
+    {
+        "code": "10-29",
+        "description": "Warrant Check"
+    },
+    {
+        "code": "10-30",
+        "description": "Wanted Suspect"
+    },
+    {
+        "code": "10-31",
+        "description": "Crime in Progress"
+    },
+    {
+        "code": "10-32",
+        "description": "Person with a Gun"
+    },
+    {
+        "code": "10-33",
+        "description": "Person with a Knife"
+    },
+    {
+        "code": "10-34",
+        "description": "Animal Attack"
+    },
+    {
+        "code": "10-35",
+        "description": "Major Disturbance"
+    },
+    {
+        "code": "10-36",
+        "description": "Minor Disturbance"
+    },
+    {
+        "code": "10-37",
+        "description": "Meet at Location"
+    },
+    {
+        "code": "10-38",
+        "description": "Traffic Stop"
+    },
+    {
+        "code": "10-39",
+        "description": "Report Writing"
+    },
+    {
+        "code": "10-40",
+        "description": "Back in Service"
+    },
+    {
+        "code": "10-41",
+        "description": "On Duty"
+    },
+    {
+        "code": "10-42",
+        "description": "Off Duty"
+    },
+    {
+        "code": "10-43",
+        "description": "Warrant Service"
+    },
+    {
+        "code": "10-44",
+        "description": "Looking for Suspect"
+    },
+    {
+        "code": "10-45",
+        "description": "Mentally Ill Subject"
+    },
+    {
+        "code": "10-46",
+        "description": "Intoxicated Pedestrian"
+    },
+    {
+        "code": "10-47",
+        "description": "Injured Person"
+    },
+    {
+        "code": "10-48",
+        "description": "Suspected Overdose"
+    },
+    {
+        "code": "10-49",
+        "description": "Kidnapping"
+    },
+    {
+        "code": "10-50",
+        "description": "Vehicle Accident"
+    },
+    {
+        "code": "10-51",
+        "description": "Tow Truck Requested"
+    },
+    {
+        "code": "10-52",
+        "description": "EMS Needed"
+    },
+    {
+        "code": "10-53",
+        "description": "Coroner Needed"
+    },
+    {
+        "code": "10-54",
+        "description": "K-9 Needed"
+    },
+    {
+        "code": "10-55",
+        "description": "CID Needed"
+    },
+    {
+        "code": "10-56",
+        "description": "" // 10-56 on me, 10-56 ON ME. I REPEAT.
+    },
+    {
+        "code": "10-57",
+        "description": "Hostage Situation"
+    },
+    {
+        "code": "10-58",
+        "description": "" // OH MY GOD WE HAVE A RUNNER, WHAT IS THE 10 CODE? IS IT 10-58? I DONT KNOW
+    },
+    {
+        "code": "10-59",
+        "description": "Convoy/Escort"
+    },
+    {
+        "code": "10-60",
+        "description": "Prison Break"
+    },
+    {
+        "code": "10-61",
+        "description": "Jail Request for Police"
+    },
+    {
+        "code": "10-62",
+        "description": "Jail Request for Police"
+    },
+    {
+        "code": "10-63",
+        "description": "Boat Traffic Stop"
+    },
+    {
+        "code": "10-64",
+        "description": "Boat Accident"
+    },
+    {
+        "code": "10-65",
+        "description": "Patrol on Bike"
+    },
+    {
+        "code": "10-66",
+        "description": "Patrol on Foot"
+    },
+    {
+        "code": "10-67",
+        "description": "Patrol on Vehicle"
+    },
+    {
+        "code": "10-68",
+        "description": "Patrol on Boat"
+    },
+    {
+        "code": "10-69",
+        "description": "Impersonation"
+    },
+    {
+        "code": "10-70",
+        "description": "Officer Involved Fight"
+    },
+    {
+        "code": "10-71",
+        "description": "Shots Fired"
+    },
+    {
+        "code": "10-72",
+        "description": "" // so we're going 10-72
+    },
+    {
+        "code": "10-73",
+        "description": "Advise Status"
+    },
+    {
+        "code": "10-74",
+        "description": "Officer on Pursuit Standby"
+    },
+    {
+        "code": "10-75",
+        "description": "Supervisor Request"
+    },
+    {
+        "code": "10-76",
+        "description": "Enroute"
+    },
+    {
+        "code": "10-77",
+        "description": "Backup Needed [NON-EMERGENCY]"
+    },
+    {
+        "code": "10-78",
+        "description": "Backup Needed [EMERGENCY]"
+    },
+    {
+        "code": "10-79",
+        "description": "Foot Pursuit"
+    },
+    {
+        "code": "10-80",
+        "description": "Pursuit"
+    },
+    {
+        "code": "10-81",
+        "description": "Pursuit Termination"
+    },
+    {
+        "code": "10-82",
+        "description": "Vehicle Racing"
+    },
+    {
+        "code": "10-83",
+        "description": "Weapon Investigation"
+    },
+    {
+        "code": "10-84",
+        "description": "Drug Investigation"
+    },
+    {
+        "code": "10-85",
+        "description": "Suspicious Activity"
+    },
+    {
+        "code": "10-86",
+        "description": "Business Check"
+    },
+    {
+        "code": "10-87",
+        "description": "Welfare Check"
+    },
+    {
+        "code": "10-88",
+        "description": "Special Assignment"
+    },
+    {
+        "code": "10-89",
+        "description": "Gang Activity"
+    },
+    {
+        "code": "10-90",
+        "description": "Robbery in Progress"
+    },
+    {
+        "code": "10-91",
+        "description": "Transport"
+    },
+    {
+        "code": "10-92",
+        "description": "Officer Involved Accident"
+    },
+    {
+        "code": "10-93",
+        "description": "Hit-and-Run"
+    },
+    {
+        "code": "10-94",
+        "description": "Reckless Driver"
+    },
+    {
+        "code": "10-95",
+        "description": "Suspect in Custody"
+    },
+    {
+        "code": "10-96",
+        "description": "Danger"
+    },
+    {
+        "code": "10-97",
+        "description": "Felony Stop"
+    },
+    {
+        "code": "10-98",
+        "description": "Medic Down [EMERGENCY]"
+    },
+    {
+        "code": "10-99",
+        "description": "Officer Down [EMERGENCY]"
+    },
+    {
+        "code": "CODE 1",
+        "description": "No Lights or Sirens"
+    },
+    {
+        "code": "CODE 2",
+        "description": "Lights On [Airhorn]"
+    },
+    {
+        "code": "CODE 3",
+        "description": "EMERGENCY [Lights & Sirens]"
+    },
+    {
+        "code": "CODE 4",
+        "description": "All Clear"
+    },
+    {
+        "code": "CODE 5",
+        "description": "Felony/High Risk Stop"
+    },
+    {
+        "code": "CODE 6",
+        "description": "Investigate Area"
+    },
+    {
+        "code": "RTB",
+        "description": "Return to Base [MRPD]"
+    },
+    {
+        "code": "UTL",
+        "description": "Unable to Locate"
+    },
+    {
+        "code": "VCB",
+        "description": "Visual Contact Broken"
+    }
+]
