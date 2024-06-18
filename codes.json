@@ -81,7 +81,7 @@
     },
     {
         "code": "10-21",
-        "description": ""
+        "description": "Call by phone"
     },
     {
         "code": "10-22",
@@ -101,7 +101,7 @@
     },
     {
         "code": "10-26",
-        "description": ""
+        "description": "Detaining Subject"
     },
     {
         "code": "10-27",
@@ -221,7 +221,7 @@
     },
     {
         "code": "10-56",
-        "description": "" 
+        "description": "Intoxicated Pedestrian" 
     },
     {
         "code": "10-57",
@@ -229,7 +229,7 @@
     },
     {
         "code": "10-58",
-        "description": "" 
+        "description": "Direct Traffic" 
     },
     {
         "code": "10-59",
@@ -285,7 +285,7 @@
     },
     {
         "code": "10-72",
-        "description": "" 
+        "description": "Report Progress on Fire" 
     },
     {
         "code": "10-73",
