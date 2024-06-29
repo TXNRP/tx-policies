@@ -690,7 +690,17 @@
         "category": "Crimes Against Property",
         "color": "yellow"
     },
+      { 
+        "id": 67,
+        "title": "Armed Roberu",
+        "details": "A individual is guilty of this section if he/she robs anyone and or anything with a weapon",
+        "jailtime": 40,
+        "fine": 50000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
     { 
+    },
         "id": 70,
         "title": "Trespassing",
         "details": "A inidividual is guilty of this section if the person enters or remains on or in property of another",
