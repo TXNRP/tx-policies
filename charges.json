@@ -690,17 +690,7 @@
         "category": "Crimes Against Property",
         "color": "yellow"
     },
-      { 
-        "id": 67,
-        "title": "Armed Roberu",
-        "details": "A individual is guilty of this section if he/she robs anyone and or anything with a weapon",
-        "jailtime": 40,
-        "fine": 50000,
-        "points": 0,
-        "category": "Crimes Against Property",
-        "color": "yellow"
-    { 
-    },
+    {
         "id": 70,
         "title": "Trespassing",
         "details": "A inidividual is guilty of this section if the person enters or remains on or in property of another",
@@ -833,7 +823,7 @@
     { 
         "id": 83,
         "title": "Possesion Of A Automatic Rifle",
-        "details": "A individual is guilty of this section if he/she hasin his/her possesion a rifle with full-auto",
+        "details": "A individual is guilty of this section if he/she has in his/her possession a rifle with full-auto",
         "jailtime": 25,
         "fine": 1500,
         "points": 0,
@@ -843,7 +833,7 @@
     { 
         "id": 84,
         "title": "Possesion With The Intent To Instill Fear",
-        "details": "An individual is guilty of this section if he/she has in his/her possesion of a firearm and uses it or displays it in a threatening manner to a person or property",
+        "details": "An individual is guilty of this section if he/she has in his/her possession of a firearm and uses it or displays it in a threatening manner to a person or property",
         "jailtime": 35,
         "fine": 10000,
         "points": 0,
@@ -913,7 +903,7 @@
     { 
         "id": 91,
         "title": "Window Tint Violation",
-        "details": "Any vehicle must allow 25% or more light intop the vehicle",
+        "details": "Any vehicle must allow 25% or more light into the vehicle",
         "jailtime": 0,
         "fine": 100,
         "points": 0,
@@ -923,7 +913,7 @@
     { 
         "id": 92,
         "title": "Disorderly Conduct",
-        "details": "A person commits an offense if he/she intetnionally or knowingly use abusive, indecent, profane or vulgar language in a public place",
+        "details": "A person commits an offense if he/she intentionally or knowingly use abusive, indecent, profane or vulgar language in a public place",
         "jailtime": 5,
         "fine": 500,
         "points": 0,
@@ -943,7 +933,7 @@
     { 
         "id": 94,
         "title": "Animal Cruelty",
-        "details": "A person commits and offense if the person intetionally tortures an animal in a cruel manner or kills",
+        "details": "A person commits and offense if the person intentionally tortures an animal in a cruel manner or kills",
         "jailtime": 5,
         "fine": 1500,
         "points": 0,
@@ -999,5 +989,15 @@
         "points": 0,
         "category": "Organized Crime",
         "color": "grey"
+    },
+    { 
+        "id": 100,
+        "title": "Armed Robbery",
+        "details": "A individual is guilty of this section if he/she robs anyone and or anything with a weapon",
+        "jailtime": 35,
+        "fine": 5000,
+        "points": 0,
+        "category": "Crimes Against Property",
+        "color": "yellow"
     }
 ]
