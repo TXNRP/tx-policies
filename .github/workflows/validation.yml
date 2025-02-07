@@ -16,6 +16,6 @@ jobs:
     - name: Validate Charges
       uses: ammarlakis/action-ajv@master
       with:
-        schema: schemas/charges.schema.json
-        data: charges.yml
+        schema: schemas/charges.json
+        data: charges.json
         allErrors: true
