@@ -1,43 +1,46 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "array",
-  "items": [
-    {
-      "type": "object",
-      "properties": {
-        "id": {
-          "type": "integer"
-        },
-        "title": {
-          "type": "string"
-        },
-        "details": {
-          "type": "string"
-        },
-        "jailtime": {
-          "type": "integer"
-        },
-        "fine": {
-          "type": "integer"
-        },
-        "points": {
-          "type": "integer"
-        },
-        "category": {
-          "type": "string"
-        },
-        "color": {
-          "type": "string"
-        }
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/product.schema.json",
+  "title": "Charges",
+  "description": "MDT Charges",
+  "type": "object",
+  "properties": {
+      "id": {
+         "type"; "integer",
+         "description": "Charges ID",
+         "exclusiveMinimum": 0
       },
-      "required": [
-        "id",
-        "title",
-        "details",
-        "jailtime",
-        "fine",
-        "points",
-        "category",
-        "color"
-      ]
-    },
+      "title": {
+         "type": "string",
+         "description": "Charges Title"
+      },
+      "details": {
+          "type": "string",
+          "description": "Information about the charge, what is classed under the charge etc"
+      },
+      "jailtime": {
+          "type": "integer",
+          "description": "The jailtime that the charge carries. 0 if none",
+          "exclusiveMinimum": 0,
+      },
+      "fine": {
+          "type": "integer",
+          "description": "The fine the suspect occurs if charged with this, 0 if none",
+          "exclusiveMinimum": 0
+      },
+      "points": {
+          "type": "integer",
+          "description": "Unused field",
+          "exclusiveMinimum": 0
+      },
+      "category": {
+          "type": "string",
+          "description": "The type of crime"
+      },
+      "color": {
+          "type": "string",
+          "description": "Color to render on the MDT"
+      }
+   }
+}
+
