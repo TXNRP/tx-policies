@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "details": {
+          "type": "string"
+        },
+        "jailtime": {
+          "type": "integer"
+        },
+        "fine": {
+          "type": "integer"
+        },
+        "points": {
+          "type": "integer"
+        },
+        "category": {
+          "type": "string"
+        },
+        "color": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "details",
+        "jailtime",
+        "fine",
+        "points",
+        "category",
+        "color"
+      ]
+    },
