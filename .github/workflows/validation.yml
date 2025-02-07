@@ -1,0 +1,21 @@
+name: JSON Validation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate-config:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Validate Charges
+      uses: ammarlakis/action-ajv@master
+      with:
+        schema: schemas/charges.schema.json
+        data: charges.yml
+        allErrors: true
